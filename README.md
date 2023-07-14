@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dkg1112
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on any game projects 
+- 💞️ I’m looking to collaborate on any projects 
 - 📫 How to reach me dylanmlewis12@gmail.com
 
 <!---
